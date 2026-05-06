@@ -1,0 +1,6 @@
+{
+  "/(portfolio)/casual/page": "app/(portfolio)/casual/page.js",
+  "/(portfolio)/illustration/[category]/page": "app/(portfolio)/illustration/[category]/page.js",
+  "/(portfolio)/page": "app/(portfolio)/page.js",
+  "/api/artworks/route": "app/api/artworks/route.js"
+}
